@@ -22,8 +22,8 @@ title: Rafi's Blog
 email: mrafiuddin50@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   I am a data scientist, an atmospheric science researcher, and a mechanical engineer. 
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+#baseurl: "" # the subpath of your site, e.g. /blog
+#url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: jekyllrb
 github_username:  mrafiuddin50
 
