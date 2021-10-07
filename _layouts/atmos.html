@@ -21,7 +21,7 @@ layout: default
             {{ post.title | escape }}
           </a>
 		  {% if post.feature_image %}
-			<img src="{% post.feature_image %}" />
+			{{ post.feature_image}}
 		  {% endif %}
         </h3>
         {%- if site.show_excerpts -%}
