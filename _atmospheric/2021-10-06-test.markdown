@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "First Post"
+title:  "test"
 date:   2021-10-06 22:48:38 +0530
 categories: atmospheric
 feature_image: https://historyofinformation.com/images/0075a%20Large.jpg

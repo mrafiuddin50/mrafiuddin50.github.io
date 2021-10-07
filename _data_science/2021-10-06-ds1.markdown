@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "First Post"
+title:  "ds1"
 date:   2021-10-06 22:48:38 +0530
 categories: data_science
 ---
