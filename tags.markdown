@@ -1,5 +1,5 @@
 ---
-layout: atmos
+layout: home
 title: Tags
 permalink: /tags/
 ---
