@@ -4,15 +4,13 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+I am a data science mentor for the Indian Institute of Science's and TalentSprint's Advanced Programme in Computational Data Science. 
+I am also a data science consultant at The Council on Energy, Environment and Water (CEEW), New Delhi, India. I am in the process of 
+wrapping up my PhD thesis at the Engineering Mechanics Unit, Jawaharlal Nehru Centre for Advanced Scientific Research, Bengaluru, India.
+My PhD research was on the following:
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
+* Fog forecasting for the Kempegowda International Airport region using the Weather Research and Forecasting (WRF) model.
+* Developing algorithms for fog detection from satellite imagery
+* Evaluating the effects of aerosols on the near-surface air temperature at night-time.
 
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
-
-
-[jekyll-organization]: https://github.com/jekyll
+You can find me at https://www.linkedin.com/in/rafiuddin-mohammad-ba235b41/ 
