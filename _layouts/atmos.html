@@ -20,7 +20,7 @@ layout: default
           <a class="post-link" href="{{ post.url | relative_url }}">
             {{ post.title | escape }}
           </a>
-		  <img src= "{% post.feature_img %}" />
+		  <img src={{post.feature_image}} />
         </h3>
         {%- if site.show_excerpts -%}
           {{ post.excerpt }}
