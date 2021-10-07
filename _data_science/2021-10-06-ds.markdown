@@ -2,10 +2,14 @@
 layout: post
 title:  "ds"
 <<<<<<< HEAD:_data_science/2021-10-06-ds.markdown
+<<<<<<< HEAD:_data_science/2021-10-06-ds.markdown
 date:   2021-10-06 22:48:38 +0530
 categories: data science
 =======
 date:   2021-10-07 22:48:38 +0530
+=======
+date:   2021-10-06 22:48:38 +0530
+>>>>>>> 93cf47ec5230003eb881e98e18f8f7544944a766:_data_science/2021-10-07-ds.markdown
 categories: data_science
 >>>>>>> b5f574480c43a778ee6e7ff0e4694ac9c587a60a:_data_science/2021-10-07-ds.markdown
 feature_image: https://historyofinformation.com/images/0075a%20Large.jpg
