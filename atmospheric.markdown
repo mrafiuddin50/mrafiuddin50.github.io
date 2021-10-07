@@ -1,5 +1,5 @@
 ---
-layout: home
+layout: atmos
 title: Atmospheric
 permalink: /atmospheric/
 ---
