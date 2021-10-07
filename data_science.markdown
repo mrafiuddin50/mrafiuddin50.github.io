@@ -1,5 +1,5 @@
 ---
-layout: datasci
+layout: datsci
 title: Data Science
-permalink: /datasci/
+permalink: /datsci/
 ---
