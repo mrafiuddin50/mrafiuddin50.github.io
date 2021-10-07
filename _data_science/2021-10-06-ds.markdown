@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "ds"
-date:   2021-10-07 22:48:38 +0530
+date:   2021-10-06 22:48:38 +0530
 categories: data science
 feature_image: https://historyofinformation.com/images/0075a%20Large.jpg
 ---
