@@ -1,5 +1,5 @@
 ---
-layout: atmos
+layout: misc
 title: Miscellaneous
 permalink: /miscellaneous/
 ---
