@@ -1,8 +1,13 @@
 ---
 layout: post
 title:  "ds"
+<<<<<<< HEAD:_data_science/2021-10-06-ds.markdown
 date:   2021-10-06 22:48:38 +0530
 categories: data science
+=======
+date:   2021-10-07 22:48:38 +0530
+categories: data_science
+>>>>>>> b5f574480c43a778ee6e7ff0e4694ac9c587a60a:_data_science/2021-10-07-ds.markdown
 feature_image: https://historyofinformation.com/images/0075a%20Large.jpg
 ---
 You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
