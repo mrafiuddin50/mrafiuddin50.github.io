@@ -1,5 +1,5 @@
 ---
 layout: atmos
-title: Atmospheric
+title: Atmospheric Science
 permalink: /atmospheric/
 ---
