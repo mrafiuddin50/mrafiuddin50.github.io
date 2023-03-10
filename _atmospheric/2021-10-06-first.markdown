@@ -15,6 +15,17 @@ Where `YEAR` is a four-digit number, `MONTH` and `DAY` are both two-digit number
 
 Jekyll also offers powerful support for code snippets:
 
+If I wanted to write my own code, since I am a coder, I just have to 
+
+{% highlight python}
+import matplotlib.pyplot as plt
+
+x = [1,2,3]
+y = [4,5,6]
+
+plt.plot(x,y,color='r')
+{% highlight python}
+
 {% highlight python %}
 def test():
   a = 1.0
