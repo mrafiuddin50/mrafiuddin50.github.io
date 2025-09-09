@@ -1,0 +1,42 @@
+---
+layout: post
+title:  "k-Means for burnt area"
+date:   2021-10-06 22:48:38 +0530
+categories: data_science
+feature_image: "https://upload.wikimedia.org/wikipedia/commons/4/43/Climate_data_analysis_using_tSNE_method.png"
+---
+# Crop residue burning
+
+Farmers around the world burn crop residue after harvest for a variety of reasons. This practice causes air pollution and injects gases and aerosols into the atmosphere that exacerbate climate change. Therefore, tracking it accurately is essential to mitigate it.  
+
+
+Jekyll also offers powerful support for code snippets:
+
+{% highlight python %}
+delayedArr = trainArr.to_delayed()
+
+sampleSize = 2000
+
+sampleArr = np.array([])
+for i,_ in enumerate(delayedArr):
+  np.random.seed(0)
+  temp = delayedArr[i][0].reshape(-1).compute()
+
+  if len(temp) > sampleSize*5:
+    sample = np.random.choice(temp,size=2000,replace=False)
+    sampleArr = np.append(sampleArr,sample)
+
+  else:
+    print(f'Chunk {i} is smaller than sampleSize of {sampleSize}')
+    sample = np.random.choice(temp,size=int(len(temp)/4),replace=False)
+    print(f'Sampling from a chunk of size {len(temp)}')
+    sampleArr = np.append(sampleArr,sample)  
+  {% endhighlight %}
+
+You can insert some formula $$f(x) = \int_{-\infty}^\infty \hat f(\xi)\,e^{2 \pi i \xi x} \,d\xi$$ in the middle of a sentence.
+
+Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll’s GitHub repo][jekyll-gh]. If you have questions, you can ask them on [Jekyll Talk][jekyll-talk].
+
+[jekyll-docs]: https://jekyllrb.com/docs/home
+[jekyll-gh]:   https://github.com/jekyll/jekyll
+[jekyll-talk]: https://talk.jekyllrb.com/
