@@ -12,4 +12,4 @@ My PhD research was on the following:
 * Developing algorithms for fog detection from satellite imagery
 * Evaluating the effects of aerosols on the near-surface air temperature at night-time.
 
-You can find more about me on my [Linkedin Profile](https://www.linkedin.com/in/rafiuddin-mohammad-ph-d-ba235b41/?originalSubdomain=in) 
+You can find more about me on my [Linkedin Profile](https://www.linkedin.com/in/rafiuddin-mohammad-ba235b41/) 
