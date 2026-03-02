@@ -1,7 +1,8 @@
 ---
 layout: post
-title:  "Paper on the thermal structure of the nocturnal boundary layer"
-date:   2025-02-01 22:48:38 +0530
+title:  What happens to Delhi's air quality during La Niña winters?
+date:   2026-03-01 09:00:00:00 +0530
 categories: atmospheric
-feature_image: "https://www.researchgate.net/profile/K-Browning/publication/253435531/figure/fig1/AS:671527674585104@1537116082429/Diurnal-evolution-of-an-idealized-boundary-layer-from-Stull-1988.ppm"
+feature_image: "https://www.ceew.in/sites/default/files/how-will-a-la-nina-winter-affect-delhis-air-quality-in-2024-figure1.jpg"
 ---
+The El Niño-Southern Oscillation (ENSO) cycle affects the Indian weather in more ways than one.  
